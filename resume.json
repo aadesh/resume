@@ -1,0 +1,271 @@
+{
+  "basics": {
+    "name": "Aadesh Mistry",
+    "label": "Product Design Specialist / Design Mentor",
+    "picture": "",
+    "email": "aadesh.mistry@gmail.com",
+    "phone": "+91-9673265101",
+    "website": "",
+    "summary": "User experience practitioner with proven track record of designing and leading development of user interfaces that are central to the success of software and Internet products. A hands-on leader with the unique ability to communicate effectively with developers, customers, team members, and upper-management to drive consensus for designs that are both usable and buildable. \r Equal amounts of experience working in start-up and corporate environments. Deep expertise in the design of complex, web-based/SaaS applications for both enterprise and consumer audiences.",
+    "location": {
+      "address": "302 Bauhinia, Golden Trellis",
+      "postalCode": "411045",
+      "city": "Pune",
+      "countryCode": "IN",
+      "region": "Maharashtra"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "aadesh",
+      "url": "http://twitter.com/aadesh"
+    }]
+  },
+  "work": [{
+      "company": "BMC Software.",
+      "position": "Lead Product Manager - Design",
+      "website": "",
+      "startDate": "June 2016",
+      "endDate": "Present",
+      "summary": "Applied research-based principles to drive the design of products that fully support end-user needs while also achieving the business vision. Led user research and interface design processes creating personas, visualizations, story boards, task flows, wireframes, high-fidelity mockups, and prototypes. Continuously measured and optimized the user experience through a combination of quantitative and qualitative research methods.",
+      "highlights": [
+        "Drive experience design of a product line, including authoring functional and design specifications, scalability, security, data flow, and interface.",
+        "Led UX efforts on innovation business intelligence systems, researching and designing new IA, data visualizations, and end-user interactions related to large data sets.",
+        "Spearheaded UX on a new innovation web-product offering, coordinating all UX related efforts and leading all research and design."
+      ]
+    },
+    {
+      "company": "Innoplexus Consulting Pvt. Ltd.",
+      "position": "Vice President - User Experience",
+      "website": "",
+      "startDate": "September 2015",
+      "endDate": "June 2016",
+      "summary": "",
+      "highlights": [
+        "Hire, mentor and train 10-person User Experience team",
+        "Ensure consistent, high-quality design and front-end implementation deliverables across business-critical internal transactional applications",
+        "Define and implement a standardized User Experience design process and set of deliverables",
+        "Act as an evangelist for the User Experience discipline throughout the company, both within the technology organization and with our business sponsors and stakeholders."
+
+      ]
+    },
+    {
+      "company": "ZLemma Analytics Pvt. Ltd.",
+      "position": "Chief User Experience Designer",
+      "website": "",
+      "startDate": "April 2013",
+      "endDate": "September 2015",
+      "summary": "",
+      "highlights": [
+        "Part of the Product and Innovations leadership team, responsible for UX Design and Strategy for all of our cloud-based, SaaS products, including product strategy, visual identity and brand vision.",
+        "Defined, guided and drove the implementation of user experience best practices, not only on the software platform, but across all consumer touchpoints.",
+        "Worked with brand, creative and technical project teams to define and document requirements (business, stakeholder, user, and content), success metrics (quantitative and qualitative), and overall user experience vision on projects, and recommend strategically sound solutions to meet customers’ business needs.",
+        "Provided strategic guidance in support of user experience and information architecture service offering.",
+        "Worked with stakeholders to ensure alignment between customer experience needs and business goals and priorities."
+      ]
+    },
+    {
+      "company": "Clarice Technologies Pvt. Ltd.",
+      "position": "Lead User Experience Designer",
+      "website": "",
+      "startDate": "July 2010",
+      "endDate": "March 2013",
+      "summary": "",
+      "highlights": [
+        "Strategize, Manage and Execute UX/UI activities for various projects.",
+        "Provided strategic & conceptual usability inputs.",
+        "Identify business & user requirements and translate them into use case scenarios.",
+        "Create process flow along with a high level storyboard to bridge the understanding.",
+        "Create task flow & IA based on various use cases.",
+        "Create wireframes along with detailed interactions for each use case scenarios",
+        "Mentoring the team to build new capabilities/skill sets."
+      ]
+    },
+    {
+      "company": "Assetlink - Saiya Software Pvt. Ltd.",
+      "position": "Manager - User Experience",
+      "website": "",
+      "startDate": "April 2009",
+      "endDate": "July 2010",
+      "summary": "",
+      "highlights": [
+        "Built user experience strategy for an enterprise wide marketing resource management products.",
+        "Created end-to-end user experience including personas, task flows, and interaction design/wireframes. Directly involved in product strategy and feature road map planning as well as product marketing. Introduced and implemented a user experience design process.",
+        "Developed user interface design standards and patterns; created and directed production of interaction design and information architecture deliverables including wireframes, site maps and page flow documentation."
+      ]
+    },
+    {
+      "company": "Capgemini India Pvt. Ltd.",
+      "position": "Senior User Experience Designer",
+      "website": "",
+      "startDate": "December 2006",
+      "endDate": "April 2009",
+      "summary": "",
+      "highlights": [
+        "Provided user experience consulting services – including IA, visual design, prototyping, and product strategy -- to multiple enterprise and various fortune 500 companies.",
+        "Serve as project team leader and focal point for all design deliverables and tasks: Site maps, wireframes, visual designs, quick prototyping, user scenarios, user task analysis, user goals, UI specifications, and usability testing.",
+        "Implemented a Project Management process and responsible for the management all major projects. Integrated a user-centered product development process and led cross- functional teams spanning Business, Engineering, and Creative to meet project goals and deadlines."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Pvt. Ltd.",
+      "position": "Senior Interaction Designer",
+      "website": "",
+      "startDate": "May 2005",
+      "endDate": "November 2006",
+      "summary": "",
+      "highlights": [
+        "Provided consultancy to various teams on usability and interface design, including heuristics evaluation and cognitive walkthroughs for their web as well as desktop applications.",
+        "Implemented the user centered design process while designing the company’s intranet as well as intranet applications.",
+        "Guide a large web site development team in implementing user centered design methodologies during their application redesign efforts. Responsibilities included analysis, developing user requirements and key personas.",
+        "Played a role of a communication designer while creating visual campaigns across the organization.",
+        "Developed the user interface design for the television as well as kiosk."
+      ]
+    },
+    {
+      "company": "Puretech Internet Pvt. Ltd.",
+      "position": "Project Leader – Design Solutions",
+      "website": "",
+      "startDate": "April 2004",
+      "endDate": "April 2005",
+      "summary": "",
+      "highlights": [
+        "Provided Pre-sales support by understanding on the project/concept and based on the brief decide on the mode of production, technology to be used, resources needed and time estimate for the project.",
+        "Decide on the concept and visual idea and preparation of the mockups/ prototypes.",
+        "Execute the project by heading the team during the production stage. Allocate work among the team and decide on the timelines and the methodology.",
+        "Play a project leadership role for the Design Solutions team and bring about growth, strong processes and quality measures.",
+        "Gather requirements and develop detailed specifications for new development."
+      ]
+    },
+    {
+      "company": "iDizyn Studio",
+      "position": "Freelance Designer",
+      "website": "",
+      "startDate": "November 2002",
+      "endDate": "April 2004",
+      "summary": "",
+      "highlights": [
+        "Designing and visualizing website templates.",
+        "Responsible for the design and implementation of Bulletin Board on NEC website.",
+        "Designed and developed interfaces for various web based applications.",
+        "Designed corporate identities for various international clients by understanding their business and highlighting their USPs"
+      ]
+    },
+    {
+      "company": "Point 2 Point Communcations Pvt. Ltd.",
+      "position": "Web/Graphic Designer",
+      "website": "",
+      "startDate": "February 2000",
+      "endDate": "October 2002",
+      "summary": "",
+      "highlights": [
+        "Involved with many web-based projects, both for established and start-up clients, that have continuously exceeded design goals and expectations – with many of our efforts attributing directly to the client success.",
+        "Was Responsible for creative direction of other designers within the company.",
+        "Responsible for the maintenance and functionality of philipsindia.com and statebankofindia.com",
+        "Involved in many web-based projects for Rediff.com.",
+        "Responsible for maintenance and functionality of tatainfotech.com."
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "education": [{
+      "institution": "Human Factors International",
+      "area": "HFI",
+      "studyType": "CUA Certification Course",
+      "startDate": "2004",
+      "endDate": "2005",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Shri Bhagubhai Mafatlal Polytechnic (Mumbai University)",
+      "area": "Computer Applications",
+      "studyType": "Post Diploma",
+      "startDate": "Aug 1998",
+      "endDate": "Feb 2000",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Vivekanand Education Society's Polytechnic (Mumbai University)",
+      "area": "Eletronics & Telecommunications",
+      "studyType": "Diploma",
+      "startDate": "Aug 1995",
+      "endDate": "Mar 1998",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "portfolio": [{
+    "title": "Portfolio URL",
+    "url": "http://www.behance.net/aadesh"
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "UX Methods",
+    "level": "",
+    "keywords": [
+      "Card Sorting",
+      "Competitive Analysis",
+      "Contextual Inquiry",
+      "Diagramming",
+      "Ethnography",
+      "Heuristic Evaluation",
+      "Hi/Low-Fi Prototyping",
+      "Information Architecture",
+      "Interviewing",
+      "Persona Creation",
+      "Scenarios",
+      "Sketching",
+      "Specifications",
+      "Strategy Development",
+      "Surveys",
+      "Task Flows",
+      "Usability Testing",
+      "Wireframing"
+    ],
+    "name": "UX Tools",
+    "level": "",
+    "keywords": [
+      "Sketch 3",
+      "Invision",
+      "Zeplin"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }]
+}

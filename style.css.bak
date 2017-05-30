@@ -1,0 +1,124 @@
+body {
+	background: #FAFAFA;
+	font: 15px "Lato";
+	line-height: 1.4;
+	margin: 10em 0;
+	margin-bottom: 100px;
+	color: rgba(0,0,0,0.75);
+}
+em {
+	color: #999;
+}
+p {
+	line-height: 1.4;
+}
+ul {
+	margin-bottom: 0;
+}
+section {
+	margin-bottom: 2em;
+}
+blockquote {
+	margin: 0;
+	margin-bottom: 1em;
+}
+.item {
+	margin-bottom: 1em;
+}
+#resume {
+	margin: 0 auto;
+	max-width: 960px;
+	padding: 0 20px;
+}
+section h2 {
+    margin-bottom: 2em;
+    font-size: 36px;
+    font-weight: 100;
+    font-family: "Lato";
+    color: #F05442;
+	  text-transform: uppercase;
+}
+#basics {
+	margin-bottom: 5em;
+	padding-bottom: 5em;
+	border-bottom: 1px solid #eaeaea;
+}
+#basics h1 {
+  margin:0;
+  font-family: "Lato";
+	font-size: 72px;
+  font-weight: 800;
+  letter-spacing:-1px;
+  text-transform: uppercase;
+  color: #F05442;
+}
+#basics h2 {
+		margin: -10px 0 50px 0;
+    font-family: "Lato";
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    color: #666;
+    text-transform: inherit;
+}
+#basics h3 {
+	margin-top: 1.5em;
+}
+#basics .contact strong,
+#location strong {
+	clear: both;
+	float: left;
+	line-height: 1.3;
+	width: 120px;
+}
+.summary  p{
+	padding:0;
+  font-family: "Lato";
+	font-size: 24px;
+  font-weight: 300;
+  line-height:1.75;
+  color: #666;
+}
+#profiles,
+#skills {
+	overflow: hidden;
+}
+#profiles .item,
+#skills .item {
+	float: left;
+	width: 50%;
+}
+#work .item {
+	margin-bottom: 5em;
+}
+#education .item {
+	margin-bottom: 3em;
+}
+.date {
+	font-size: 13px;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.5);
+  font-weight: 300;
+}
+.position,.studyType {
+	font-size: 15px;
+  margin: 5px 0 5px 0;
+  font-family: "Lato";
+  text-transform: uppercase;
+}
+.position span{
+	color: #999; 
+}
+.highlights li {
+	font-family: "Lato";
+  margin-bottom: 0.75em;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 2;
+}
+.institution {
+	font-weight: 400;
+  color: rgba(0,0,0,0.45);
+  font-family: "Lato";
+}
+

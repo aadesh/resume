@@ -1,0 +1,34 @@
+{{#resume.basics}}
+	<section id="basics">
+		<div class="details">
+			<h1>{{name}}</h1>
+			<div class="desc">{{label}}</div>
+			<div class="contact">{{email}} / {{phone}}</div>
+		</div>
+
+		<div class="logo">
+			<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+			    <desc>Created with Sketch.</desc>
+			    <defs></defs>
+			    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+			        <g id="logo">
+			            <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="0" width="80" height="80"></rect>
+			            <g id="Page-1-Copy" transform="translate(10.000000, 6.666667)">
+			                <polygon id="Fill-1" fill="#FF4900" points="29.4413502 51.5223629 48.4862058 40.4817916 58.8825706 62.5628043 58.8825706 66.3261279 55.2024667 66.2429081 44.1618955 66.3261279 40.4817916 58.8825706 29.4413502 66.2429081"></polygon>
+			                <polygon id="Fill-2" fill="#000000" points="33.1214541 7.36033755 46.3126258 35.7964297 32.835443 43.6092178 29.4413502 36.8016878 29.4413502 -1.19922825e-14"></polygon>
+			                <polygon id="Fill-3" fill="#FF6D33" points="14.7206751 66.2429081 0 66.2429081 0 62.5628043 10.3964946 40.4817916 29.4413502 51.5223629 29.4413502 66.2429081 18.400779 58.8825706"></polygon>
+			                <polygon id="Fill-4" fill="#333333" points="29.4413502 -1.19922825e-14 29.4413502 36.8016878 26.0397274 43.6049335 12.5699448 35.7964297 25.7611165 7.36033755"></polygon>
+			            </g>
+			        </g>
+			    </g>
+			</svg>
+		</logo>
+	</section>
+	{{#if summary}}
+	<section id="overview">
+		<h2>Overview</h2>
+			<p>{{summary}}</p>
+	</section>
+	{{/if}}
+{{/resume.basics}}
